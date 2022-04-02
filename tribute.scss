@@ -1,0 +1,60 @@
+.tribute-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+  overflow: auto;
+  display: block;
+  z-index: 999999;
+
+  ul {
+    margin: 0;
+    margin-top: 2px;
+    padding: 0;
+    list-style: none;
+    background: black;
+  }
+
+  li {
+    padding: 5px 5px;
+    cursor: pointer;
+    color: lightgray;
+
+      &.highlight {
+        background: var(--oxy-active);
+      }
+
+      span {
+        font-weight: bold;
+        color: white;
+      }
+
+      &.no-match {
+        cursor: default;
+      }
+  }
+
+  .menu-highlighted {
+    font-weight: bold;
+  }
+  
+  
+}
+
+
+
+
+
+
+#tailwintClasses{
+  border: 2px solid var(--oxy__input-border) !important;
+  margin: 0;
+  font-size: 12px;
+  min-height: 80px;
+  font-family: inherit;
+  background: var(--oxy__bg_3);
+  color: var(--oxy__text);
+  font-size: 14px;
+  border: 0;
+  padding: 5px;
+}
