@@ -5,7 +5,7 @@ Plugin Name: OxyWind Autocomplete Addon
 Description: Adds classes autocomplete suggestions
 Author: Marko Krstic
 Author URI: https://markokrstic.com/
-Version: 0.0.91
+Version: 0.0.1
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
