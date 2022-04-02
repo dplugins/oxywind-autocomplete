@@ -9,6 +9,19 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/Autocomplete.jpg" : {
+      "ft" : 16384,
+      "iS" : 127994,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/Autocomplete.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/tailwind-autocomplete.php" : {
       "cB" : 0,
       "ft" : 8192,
